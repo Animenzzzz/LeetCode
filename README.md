@@ -23,6 +23,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |2|[Add Two Numbers](https://github.com/Animenzzzz/LeetCode/issues/1)|31.40%|Medium|
+|23|[Merge k Sorted Lists](https://github.com/Animenzzzz/LeetCode/issues/1)|35.10%|Hard|
 |82|[Remove Duplicates from Sorted List II](https://github.com/Animenzzzz/LeetCode/issues/2)|33.40%|Medium|
 |86|[Partition List](https://github.com/Animenzzzz/LeetCode/issues/1)|37.70%|Medium|
 |142|[Linked List Cycle II](https://github.com/Animenzzzz/LeetCode/issues/1)|32.60%|Medium|
