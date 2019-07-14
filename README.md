@@ -24,8 +24,13 @@
 |---| ----- | -------- | ---------- |
 |2|[Add Two Numbers](https://github.com/Animenzzzz/LeetCode/issues/1)|31.40%|Medium|
 |19|[Remove Nth Node From End of List](https://github.com/Animenzzzz/LeetCode/issues/4)|34.40%|Medium|
+|21|[Merge Two Sorted Lists](https://github.com/Animenzzzz/LeetCode/issues/5)|47.90%|Easy|
 |23|[Merge k Sorted Lists](https://github.com/Animenzzzz/LeetCode/issues/3)|35.10%|Hard|
+|24|[Swap Nodes in Pairs](https://github.com/Animenzzzz/LeetCode/issues/6)|45.40%|Medium|
+|25|[Reverse Nodes in k-Group](https://github.com/Animenzzzz/LeetCode/issues/7)|37.00%|Hard|
 |82|[Remove Duplicates from Sorted List II](https://github.com/Animenzzzz/LeetCode/issues/2)|33.40%|Medium|
+|83|[Remove Duplicates from Sorted List](https://github.com/Animenzzzz/LeetCode/issues/8)|42.90%|Easy|
 |86|[Partition List](https://github.com/Animenzzzz/LeetCode/issues/1)|37.70%|Medium|
+|141|[Linked List Cycle](https://github.com/Animenzzzz/LeetCode/issues/9)|37.40%|Easy|
 |142|[Linked List Cycle II](https://github.com/Animenzzzz/LeetCode/issues/1)|32.60%|Medium|
 |445|[Add Two Numbers II](https://github.com/Animenzzzz/LeetCode/issues/1)|50.50%|Medium|
