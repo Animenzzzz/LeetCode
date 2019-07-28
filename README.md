@@ -34,3 +34,9 @@
 |141|[Linked List Cycle](https://github.com/Animenzzzz/LeetCode/issues/9)|37.40%|Easy|
 |142|[Linked List Cycle II](https://github.com/Animenzzzz/LeetCode/issues/1)|32.60%|Medium|
 |445|[Add Two Numbers II](https://github.com/Animenzzzz/LeetCode/issues/1)|50.50%|Medium|
+
+## Sort
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|75|[Sort Colors](https://github.com/Animenzzzz/LeetCode/issues/11)|34.90%|Medium|
+|242|[Valid Anagram](https://github.com/Animenzzzz/LeetCode/issues/10)|52.90%|Easy|
