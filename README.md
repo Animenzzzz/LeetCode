@@ -4,6 +4,8 @@
 
 每A一道题，就提交解题代码和思路，按Tag分类
 
+rank 68000
+
 **<如果你自己会发光，那么何惧黑暗>**
 
 ---
@@ -39,4 +41,8 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |75|[Sort Colors](https://github.com/Animenzzzz/LeetCode/issues/11)|34.90%|Medium|
+|147|[对链表进行插入排序](https://github.com/Animenzzzz/LeetCode/issues/13)|59.30%|Medium|
 |242|[Valid Anagram](https://github.com/Animenzzzz/LeetCode/issues/10)|52.90%|Easy|
+|274|[H指数](https://github.com/Animenzzzz/LeetCode/issues/14)|35.60%|Medium|
+|349|[两个数组的交集](https://github.com/Animenzzzz/LeetCode/issues/12)|64.60%|Easy|
+|350|[两个数组的交集 II](https://github.com/Animenzzzz/LeetCode/issues/16)|43.10%|Easy|
