@@ -12,8 +12,8 @@ rank 56521
 
 ## String
 
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+| # | Title | Solution | Difficulty | Key |
+|---| ----- | -------- | ---------- | --- |
 |67|[Add Binary](https://github.com/Animenzzzz/LeetCode/issues/1)|39.70%|Easy|
 |165|[Compare Version Numbers](https://github.com/Animenzzzz/LeetCode/issues/1)|23.90%|Medium|
 |227|[Basic Calculator II](https://github.com/Animenzzzz/LeetCode/issues/1)|33.80%|Medium|
@@ -22,8 +22,8 @@ rank 56521
 
 
 ## Linked List
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+| # | Title | Solution | Difficulty | Key |
+|---| ----- | -------- | ---------- | --- |
 |2|[Add Two Numbers](https://github.com/Animenzzzz/LeetCode/issues/1)|31.40%|Medium|
 |19|[Remove Nth Node From End of List](https://github.com/Animenzzzz/LeetCode/issues/4)|34.40%|Medium|
 |21|[Merge Two Sorted Lists](https://github.com/Animenzzzz/LeetCode/issues/5)|47.90%|Easy|
@@ -38,8 +38,8 @@ rank 56521
 |445|[Add Two Numbers II](https://github.com/Animenzzzz/LeetCode/issues/1)|50.50%|Medium|
 
 ## Sort
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+| # | Title | Solution | Difficulty | Key |
+|---| ----- | -------- | ---------- | --- |
 |75|[Sort Colors](https://github.com/Animenzzzz/LeetCode/issues/11)|34.90%|Medium|
 |147|[对链表进行插入排序](https://github.com/Animenzzzz/LeetCode/issues/13)|59.30%|Medium|
 |148*|[排序链表](https://github.com/Animenzzzz/LeetCode/issues/17)|61.30%|Medium|
@@ -51,9 +51,17 @@ rank 56521
 |922|[按奇偶排序数组 II](https://github.com/Animenzzzz/LeetCode/issues/17)|64.60%|Easy|
 
 ## Hash Table
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+| # | Title | Solution | Difficulty | Key |
+|---| ----- | -------- | ---------- | --- |
 |1|[两数之和](https://github.com/Animenzzzz/LeetCode/issues/20)|46.30%|Easy|
 |3*|[无重复字符的最长子串](https://github.com/Animenzzzz/LeetCode/issues/22)|30.50%|Medium|
 |136|[只出现一次的数字](https://github.com/Animenzzzz/LeetCode/issues/21)|62.50%|Easy|
 |204|[计数质数](https://github.com/Animenzzzz/LeetCode/issues/23)|29.20%|Easy|
+|217|[存在重复元素](https://github.com/Animenzzzz/LeetCode/issues/24)|49.40%|Easy|
+|219|[存在重复元素II](https://github.com/Animenzzzz/LeetCode/issues/25)|35.50%|Easy|
+
+## Tree
+| # | Title | Solution | Difficulty | Key |
+|---| ----- | -------- | ---------- | --- |
+|94*|[二叉树的中序遍历](https://github.com/Animenzzzz/LeetCode/issues/26)|67.10%|Medium|
+|100|[相同的树](https://github.com/Animenzzzz/LeetCode/issues/27)|54.00%|Easy|
