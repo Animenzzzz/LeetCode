@@ -4,7 +4,7 @@
 
 每A一道题，就提交解题代码和思路，按Tag分类
 
-rank 56521
+rank 47652
 
 **<如果你自己会发光，那么何惧黑暗>**
 
@@ -65,3 +65,5 @@ rank 56521
 |---| ----- | -------- | ---------- | --- |
 |94*|[二叉树的中序遍历](https://github.com/Animenzzzz/LeetCode/issues/26)|67.10%|Medium|
 |100|[相同的树](https://github.com/Animenzzzz/LeetCode/issues/27)|54.00%|Easy|
+|101|[对称二叉树](https://github.com/Animenzzzz/LeetCode/issues/28)|47.80%|Easy|
+|104|[二叉树的最大深度](https://github.com/Animenzzzz/LeetCode/issues/29)|70.30%|Easy|
