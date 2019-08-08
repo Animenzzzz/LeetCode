@@ -4,7 +4,7 @@
 
 每A一道题，就提交解题代码和思路，按Tag分类
 
-rank 47652
+rank 41467
 
 **<如果你自己会发光，那么何惧黑暗>**
 
@@ -30,11 +30,17 @@ rank 47652
 |23|[Merge k Sorted Lists](https://github.com/Animenzzzz/LeetCode/issues/3)|35.10%|Hard|
 |24|[Swap Nodes in Pairs](https://github.com/Animenzzzz/LeetCode/issues/6)|45.40%|Medium|
 |25|[Reverse Nodes in k-Group](https://github.com/Animenzzzz/LeetCode/issues/7)|37.00%|Hard|
+|61|[旋转链表](https://github.com/Animenzzzz/LeetCode/issues/33)|38.90%|Medium|
 |82|[Remove Duplicates from Sorted List II](https://github.com/Animenzzzz/LeetCode/issues/2)|33.40%|Medium|
 |83|[Remove Duplicates from Sorted List](https://github.com/Animenzzzz/LeetCode/issues/8)|42.90%|Easy|
 |86|[Partition List](https://github.com/Animenzzzz/LeetCode/issues/1)|37.70%|Medium|
+|92|[反转链表 II](https://github.com/Animenzzzz/LeetCode/issues/34)|45.90%|Medium|
 |141|[Linked List Cycle](https://github.com/Animenzzzz/LeetCode/issues/9)|37.40%|Easy|
 |142|[Linked List Cycle II](https://github.com/Animenzzzz/LeetCode/issues/1)|32.60%|Medium|
+|160|[相交链表](https://github.com/Animenzzzz/LeetCode/issues/31)|46.50%|Easy|
+|203|[移除链表元素](https://github.com/Animenzzzz/LeetCode/issues/32)|42.00%|Easy|
+|206*|[反转链表](https://github.com/Animenzzzz/LeetCode/issues/35)|63.40%|Easy|递归|
+|234|[回文链表](https://github.com/Animenzzzz/LeetCode/issues/36)|38.20%|Easy|
 |445|[Add Two Numbers II](https://github.com/Animenzzzz/LeetCode/issues/1)|50.50%|Medium|
 
 ## Sort
@@ -67,3 +73,4 @@ rank 47652
 |100|[相同的树](https://github.com/Animenzzzz/LeetCode/issues/27)|54.00%|Easy|
 |101|[对称二叉树](https://github.com/Animenzzzz/LeetCode/issues/28)|47.80%|Easy|
 |104|[二叉树的最大深度](https://github.com/Animenzzzz/LeetCode/issues/29)|70.30%|Easy|
+|108|[将有序数组转换为二叉搜索树](https://github.com/Animenzzzz/LeetCode/issues/30)|65.60%|Easy|二分法|
