@@ -1,10 +1,10 @@
 # LeetCode On the way
 
-![](https://img.shields.io/badge/language-C-red.svg)
+![](https://img.shields.io/badge/language-C/C++-red.svg)
 
 每A一道题，就提交解题代码和思路，按Tag分类
 
-rank 41467
+rank 37701
 
 **<如果你自己会发光，那么何惧黑暗>**
 
@@ -74,3 +74,10 @@ rank 41467
 |101|[对称二叉树](https://github.com/Animenzzzz/LeetCode/issues/28)|47.80%|Easy|
 |104|[二叉树的最大深度](https://github.com/Animenzzzz/LeetCode/issues/29)|70.30%|Easy|
 |108|[将有序数组转换为二叉搜索树](https://github.com/Animenzzzz/LeetCode/issues/30)|65.60%|Easy|二分法|
+
+## Stack
+| # | Title | Solution | Difficulty | Key |
+|---| ----- | -------- | ---------- | --- |
+|20|[有效的括号](https://github.com/Animenzzzz/LeetCode/issues/39)|39.20%|Easy|
+|71|[简化路径](https://github.com/Animenzzzz/LeetCode/issues/37)|36.90%|Medium|
+|150|[逆波兰表达式求值](https://github.com/Animenzzzz/LeetCode/issues/38)|45.30%|Medium|
