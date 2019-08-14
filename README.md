@@ -4,7 +4,7 @@
 
 每A一道题，就提交解题代码和思路，按Tag分类
 
-rank 37701
+rank 35248
 
 **<如果你自己会发光，那么何惧黑暗>**
 
@@ -80,4 +80,10 @@ rank 37701
 |---| ----- | -------- | ---------- | --- |
 |20|[有效的括号](https://github.com/Animenzzzz/LeetCode/issues/39)|39.20%|Easy|
 |71|[简化路径](https://github.com/Animenzzzz/LeetCode/issues/37)|36.90%|Medium|
+|144|[二叉树的前序遍历](https://github.com/Animenzzzz/LeetCode/issues/42)|61.10%|Medium|
+|145*|[二叉树的后序遍历](https://github.com/Animenzzzz/LeetCode/issues/43)|67.20%|Hard|
 |150|[逆波兰表达式求值](https://github.com/Animenzzzz/LeetCode/issues/38)|45.30%|Medium|
+|225|[用队列实现栈](https://github.com/Animenzzzz/LeetCode/issues/44)|59.70%|Easy|
+|232|[用栈实现队列](https://github.com/Animenzzzz/LeetCode/issues/45)|60.70%|Easy|
+|735|[行星碰撞](https://github.com/Animenzzzz/LeetCode/issues/40)|32.70%|Medium|
+|1019|[链表中的下一个更大节点](https://github.com/Animenzzzz/LeetCode/issues/41)|42.60%|Medium|
