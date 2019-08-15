@@ -2,11 +2,14 @@
 
 ![](https://img.shields.io/badge/language-C/C++-red.svg)
 
-每A一道题，就提交解题代码和思路，按Tag分类
 
-rank 31425
 
-**<如果你自己会发光，那么何惧黑暗>**
+<font color=#FF0000 size=3><B>Rank 31425</B></font>
+
+<font color=#800000 size=4><B>Ever tried.Ever failed.  
+No matter.Try again.</B></font>
+
+<font color=#800000 size=4><B>Dearms don't come for free.</B></font>
 
 ---
 
