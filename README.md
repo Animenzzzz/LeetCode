@@ -4,7 +4,7 @@
 
 每A一道题，就提交解题代码和思路，按Tag分类
 
-rank 35248
+rank 31425
 
 **<如果你自己会发光，那么何惧黑暗>**
 
@@ -83,7 +83,13 @@ rank 35248
 |144|[二叉树的前序遍历](https://github.com/Animenzzzz/LeetCode/issues/42)|61.10%|Medium|
 |145*|[二叉树的后序遍历](https://github.com/Animenzzzz/LeetCode/issues/43)|67.20%|Hard|
 |150|[逆波兰表达式求值](https://github.com/Animenzzzz/LeetCode/issues/38)|45.30%|Medium|
+|155|[最小栈](https://github.com/Animenzzzz/LeetCode/issues/46)|49.50%|Easy|
+|224|[基本计算器](https://github.com/Animenzzzz/LeetCode/issues/47)|34.10%|Hard|
 |225|[用队列实现栈](https://github.com/Animenzzzz/LeetCode/issues/44)|59.70%|Easy|
 |232|[用栈实现队列](https://github.com/Animenzzzz/LeetCode/issues/45)|60.70%|Easy|
+|394|[字符串解码](https://github.com/Animenzzzz/LeetCode/issues/48)|35.60%|Medium|
+|402|[移掉K位数字](https://github.com/Animenzzzz/LeetCode/issues/49)|35.60%|Medium|单调栈|
+|496|[下一个更大元素 I](https://github.com/Animenzzzz/LeetCode/issues/50)|60.40%|Easy|
 |735|[行星碰撞](https://github.com/Animenzzzz/LeetCode/issues/40)|32.70%|Medium|
+|921|[使括号有效的最少添加](https://github.com/Animenzzzz/LeetCode/issues/51)|66.00%|Medium|
 |1019|[链表中的下一个更大节点](https://github.com/Animenzzzz/LeetCode/issues/41)|42.60%|Medium|
