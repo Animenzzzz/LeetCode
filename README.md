@@ -94,5 +94,6 @@ No matter.Try again.</B></font>
 |402|[移掉K位数字](https://github.com/Animenzzzz/LeetCode/issues/49)|35.60%|Medium|单调栈|
 |496|[下一个更大元素 I](https://github.com/Animenzzzz/LeetCode/issues/50)|60.40%|Easy|
 |735|[行星碰撞](https://github.com/Animenzzzz/LeetCode/issues/40)|32.70%|Medium|
+|844|[比较含退格的字符串](https://github.com/Animenzzzz/LeetCode/issues/52)|47.90%|Easy|
 |921|[使括号有效的最少添加](https://github.com/Animenzzzz/LeetCode/issues/51)|66.00%|Medium|
 |1019|[链表中的下一个更大节点](https://github.com/Animenzzzz/LeetCode/issues/41)|42.60%|Medium|
