@@ -78,6 +78,14 @@ No matter.Try again.</B></font>
 |104|[二叉树的最大深度](https://github.com/Animenzzzz/LeetCode/issues/29)|70.30%|Easy|
 |108|[将有序数组转换为二叉搜索树](https://github.com/Animenzzzz/LeetCode/issues/30)|65.60%|Easy|二分法|
 
+## Trie
+| # | Title | Solution | Difficulty | Key |
+|---| ----- | -------- | ---------- | --- |
+|208|[实现 Trie (前缀树)](https://github.com/Animenzzzz/LeetCode/issues/53)|60.60%|Medium|
+|648|[单词替换](https://github.com/Animenzzzz/LeetCode/issues/54)|52.20%|Medium|
+|676|[实现一个魔法字典](https://github.com/Animenzzzz/LeetCode/issues/55)|52.60%|Medium|没用树，用map|
+|677|[键值映射](https://github.com/Animenzzzz/LeetCode/issues/56)|59.00%|Medium|
+
 ## Stack
 | # | Title | Solution | Difficulty | Key |
 |---| ----- | -------- | ---------- | --- |
