@@ -82,6 +82,7 @@ No matter.Try again.</B></font>
 | # | Title | Solution | Difficulty | Key |
 |---| ----- | -------- | ---------- | --- |
 |208|[实现 Trie (前缀树)](https://github.com/Animenzzzz/LeetCode/issues/53)|60.60%|Medium|
+|211*|[添加与搜索单词 - 数据结构设计](https://github.com/Animenzzzz/LeetCode/issues/57)|39.20%|Medium|DFS|
 |648|[单词替换](https://github.com/Animenzzzz/LeetCode/issues/54)|52.20%|Medium|
 |676|[实现一个魔法字典](https://github.com/Animenzzzz/LeetCode/issues/55)|52.60%|Medium|没用树，用map|
 |677|[键值映射](https://github.com/Animenzzzz/LeetCode/issues/56)|59.00%|Medium|
