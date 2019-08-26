@@ -4,7 +4,7 @@
 
 
 
-<font color=#FF0000 size=3><B>Rank 31425</B></font>
+<font color=#FF0000 size=3><B>Rank 26810</B></font>
 
 <font color=#800000 size=4><B>Ever tried.Ever failed.  
 No matter.Try again.</B></font>
@@ -77,6 +77,7 @@ No matter.Try again.</B></font>
 |101|[对称二叉树](https://github.com/Animenzzzz/LeetCode/issues/28)|47.80%|Easy|
 |104|[二叉树的最大深度](https://github.com/Animenzzzz/LeetCode/issues/29)|70.30%|Easy|
 |108|[将有序数组转换为二叉搜索树](https://github.com/Animenzzzz/LeetCode/issues/30)|65.60%|Easy|二分法|
+|226|[翻转二叉树](https://github.com/Animenzzzz/LeetCode/issues/58)|71.40%|Easy|
 
 ## Trie
 | # | Title | Solution | Difficulty | Key |
