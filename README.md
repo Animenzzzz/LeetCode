@@ -68,6 +68,7 @@ No matter.Try again.</B></font>
 |204|[计数质数](https://github.com/Animenzzzz/LeetCode/issues/23)|29.20%|Easy|
 |217|[存在重复元素](https://github.com/Animenzzzz/LeetCode/issues/24)|49.40%|Easy|
 |219|[存在重复元素II](https://github.com/Animenzzzz/LeetCode/issues/25)|35.50%|Easy|
+|290|[单词规律](https://github.com/Animenzzzz/LeetCode/issues/61)|40.10%|Easy|
 
 ## Tree
 | # | Title | Solution | Difficulty | Key |
@@ -77,6 +78,8 @@ No matter.Try again.</B></font>
 |101|[对称二叉树](https://github.com/Animenzzzz/LeetCode/issues/28)|47.80%|Easy|
 |104|[二叉树的最大深度](https://github.com/Animenzzzz/LeetCode/issues/29)|70.30%|Easy|
 |108|[将有序数组转换为二叉搜索树](https://github.com/Animenzzzz/LeetCode/issues/30)|65.60%|Easy|二分法|
+|110|[平衡二叉树](https://github.com/Animenzzzz/LeetCode/issues/60)|49.00%|Easy|
+|112|[路径总和](https://github.com/Animenzzzz/LeetCode/issues/59)|47.60%|Easy|
 |226|[翻转二叉树](https://github.com/Animenzzzz/LeetCode/issues/58)|71.40%|Easy|
 
 ## Trie
