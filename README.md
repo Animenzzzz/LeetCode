@@ -63,12 +63,16 @@ No matter.Try again.</B></font>
 | # | Title | Solution | Difficulty | Key |
 |---| ----- | -------- | ---------- | --- |
 |1|[两数之和](https://github.com/Animenzzzz/LeetCode/issues/20)|46.30%|Easy|
+|18|[四数之和](https://github.com/Animenzzzz/LeetCode/issues/62)|35.30%|Medium|用的暴力|
 |3*|[无重复字符的最长子串](https://github.com/Animenzzzz/LeetCode/issues/22)|30.50%|Medium|
 |136|[只出现一次的数字](https://github.com/Animenzzzz/LeetCode/issues/21)|62.50%|Easy|
 |204|[计数质数](https://github.com/Animenzzzz/LeetCode/issues/23)|29.20%|Easy|
 |217|[存在重复元素](https://github.com/Animenzzzz/LeetCode/issues/24)|49.40%|Easy|
 |219|[存在重复元素II](https://github.com/Animenzzzz/LeetCode/issues/25)|35.50%|Easy|
 |290|[单词规律](https://github.com/Animenzzzz/LeetCode/issues/61)|40.10%|Easy|
+|387|[字符串中的第一个唯一字符](https://github.com/Animenzzzz/LeetCode/issues/63)|40.20%|Easy|
+|389|[找不同](https://github.com/Animenzzzz/LeetCode/issues/64)|57.90%|Easy|
+
 
 ## Tree
 | # | Title | Solution | Difficulty | Key |
