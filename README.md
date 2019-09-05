@@ -118,3 +118,9 @@ No matter.Try again.</B></font>
 |844|[比较含退格的字符串](https://github.com/Animenzzzz/LeetCode/issues/52)|47.90%|Easy|
 |921|[使括号有效的最少添加](https://github.com/Animenzzzz/LeetCode/issues/51)|66.00%|Medium|
 |1019|[链表中的下一个更大节点](https://github.com/Animenzzzz/LeetCode/issues/41)|42.60%|Medium|
+
+## Queue
+| # | Title | Solution | Difficulty | Key |
+|---| ----- | -------- | ---------- | --- |
+|622*|[设计循环队列](https://github.com/Animenzzzz/LeetCode/issues/70)|38.80%|Medium|
+|933|[最近的请求次数](https://github.com/Animenzzzz/LeetCode/issues/69)|67.80%|Easy|
