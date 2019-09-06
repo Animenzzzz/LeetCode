@@ -4,7 +4,7 @@
 
 
 
-<font color=#FF0000 size=3><B>Rank 26810</B></font>
+<font color=#FF0000 size=3><B>Rank 22669</B></font>
 
 <font color=#800000 size=4><B>Ever tried.Ever failed.  
 No matter.Try again.</B></font>
@@ -12,6 +12,16 @@ No matter.Try again.</B></font>
 <font color=#800000 size=4><B>Dearms don't come for free.</B></font>
 
 ---
+
+## Array
+
+| # | Title | Solution | Difficulty | Key |
+|---| ----- | -------- | ---------- | --- |
+|15|[三数之和](https://github.com/Animenzzzz/LeetCode/issues/75)|23.90%|Medium|排序，暴力|
+|16|[最接近的三数之和](https://github.com/Animenzzzz/LeetCode/issues/76)|41.60%|Medium|和15题一样思路|
+|26|[删除排序数组中的重复项](https://github.com/Animenzzzz/LeetCode/issues/77)|46.10%|Easy|快慢指针|
+|27|[移除元素](https://github.com/Animenzzzz/LeetCode/issues/78)|55.90%|Easy|
+|414|[第三大的数](https://github.com/Animenzzzz/LeetCode/issues/74)|32.60%|Easy|
 
 ## String
 
@@ -52,13 +62,14 @@ No matter.Try again.</B></font>
 |56|[合并区间](https://github.com/Animenzzzz/LeetCode/issues/71)|38.20%|Medium|
 |75|[Sort Colors](https://github.com/Animenzzzz/LeetCode/issues/11)|34.90%|Medium|
 |147|[对链表进行插入排序](https://github.com/Animenzzzz/LeetCode/issues/13)|59.30%|Medium|
-|148*|[排序链表](https://github.com/Animenzzzz/LeetCode/issues/17)|61.30%|Medium|
+|148\*|[排序链表](https://github.com/Animenzzzz/LeetCode/issues/17)|61.30%|Medium|
 |164|[最大间距](https://github.com/Animenzzzz/LeetCode/issues/19)|50.90%|Hard|
 |242|[Valid Anagram](https://github.com/Animenzzzz/LeetCode/issues/10)|52.90%|Easy|
 |274|[H指数](https://github.com/Animenzzzz/LeetCode/issues/14)|35.60%|Medium|
 |349|[两个数组的交集](https://github.com/Animenzzzz/LeetCode/issues/12)|64.60%|Easy|
 |350|[两个数组的交集 II](https://github.com/Animenzzzz/LeetCode/issues/16)|43.10%|Easy|
 |524|[通过删除字母匹配到字典里最长单词](https://github.com/Animenzzzz/LeetCode/issues/72)|44.60%|Medium|
+|767\*|[重构字符串](https://github.com/Animenzzzz/LeetCode/issues/73)|35.20%|Medium|使用优先队列，priority_queue\<pair\<int,char\>\>|
 |922|[按奇偶排序数组 II](https://github.com/Animenzzzz/LeetCode/issues/17)|64.60%|Easy|
 
 ## Hash Table
