@@ -4,7 +4,7 @@
 
 
 
-<font color=#FF0000 size=3><B>Rank 22669</B></font>
+<font color=#FF0000 size=3><B>Rank 20257</B></font>
 
 <font color=#800000 size=4><B>Ever tried.Ever failed.  
 No matter.Try again.</B></font>
@@ -21,12 +21,15 @@ No matter.Try again.</B></font>
 |16|[最接近的三数之和](https://github.com/Animenzzzz/LeetCode/issues/76)|41.60%|Medium|和15题一样思路|
 |26|[删除排序数组中的重复项](https://github.com/Animenzzzz/LeetCode/issues/77)|46.10%|Easy|快慢指针|
 |27|[移除元素](https://github.com/Animenzzzz/LeetCode/issues/78)|55.90%|Easy|
+|35|[搜索插入位置](https://github.com/Animenzzzz/LeetCode/issues/79)|44.30%|Easy|
+|66|[加一](https://github.com/Animenzzzz/LeetCode/issues/80)|40.80%|Easy|
 |414|[第三大的数](https://github.com/Animenzzzz/LeetCode/issues/74)|32.60%|Easy|
 
 ## String
 
 | # | Title | Solution | Difficulty | Key |
 |---| ----- | -------- | ---------- | --- |
+|28|[实现 strStr()](https://github.com/Animenzzzz/LeetCode/issues/81)|38.80%|Easy|
 |67|[Add Binary](https://github.com/Animenzzzz/LeetCode/issues/1)|39.70%|Easy|
 |165|[Compare Version Numbers](https://github.com/Animenzzzz/LeetCode/issues/1)|23.90%|Medium|
 |227|[Basic Calculator II](https://github.com/Animenzzzz/LeetCode/issues/1)|33.80%|Medium|
@@ -137,3 +140,11 @@ No matter.Try again.</B></font>
 |---| ----- | -------- | ---------- | --- |
 |622*|[设计循环队列](https://github.com/Animenzzzz/LeetCode/issues/70)|38.80%|Medium|
 |933|[最近的请求次数](https://github.com/Animenzzzz/LeetCode/issues/69)|67.80%|Easy|
+
+## Greedy
+| # | Title | Solution | Difficulty | Key |
+|---| ----- | -------- | ---------- | --- |
+|55|[跳跃游戏\*](https://github.com/Animenzzzz/LeetCode/issues/84)|36.00%|Medium|
+|122|[买卖股票的最佳时机 II](https://github.com/Animenzzzz/LeetCode/issues/82)|55.30%|Easy|
+|134|[加油站\*](https://github.com/Animenzzzz/LeetCode/issues/85)|48.80%|Medium|
+|392|[判断子序列](https://github.com/Animenzzzz/LeetCode/issues/83)|48.30%|Easy|
