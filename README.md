@@ -4,7 +4,7 @@
 
 
 
-<font color=#FF0000 size=3><B>Rank 20257</B></font>
+<font color=#FF0000 size=3><B>Rank 18635</B></font>
 
 <font color=#800000 size=4><B>Ever tried.Ever failed.  
 No matter.Try again.</B></font>
@@ -148,3 +148,6 @@ No matter.Try again.</B></font>
 |122|[买卖股票的最佳时机 II](https://github.com/Animenzzzz/LeetCode/issues/82)|55.30%|Easy|
 |134|[加油站\*](https://github.com/Animenzzzz/LeetCode/issues/85)|48.80%|Medium|
 |392|[判断子序列](https://github.com/Animenzzzz/LeetCode/issues/83)|48.30%|Easy|
+|455|[分发饼干](https://github.com/Animenzzzz/LeetCode/issues/87)|51.60%|Easy|
+|763|[划分字母区间](https://github.com/Animenzzzz/LeetCode/issues/88)|66.80%|Medium|
+|860|[柠檬水找零](https://github.com/Animenzzzz/LeetCode/issues/86)|51.70%|Easy|
