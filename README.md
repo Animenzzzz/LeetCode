@@ -4,7 +4,7 @@
 
 
 
-<font color=#FF0000 size=3><B>Rank 18635</B></font>
+<font color=#FF0000 size=3><B>Rank 17667</B></font>
 
 <font color=#800000 size=4><B>Ever tried.Ever failed.  
 No matter.Try again.</B></font>
@@ -30,9 +30,12 @@ No matter.Try again.</B></font>
 | # | Title | Solution | Difficulty | Key |
 |---| ----- | -------- | ---------- | --- |
 |28|[实现 strStr()](https://github.com/Animenzzzz/LeetCode/issues/81)|38.80%|Easy|
+|58|[最后一个单词的长度](https://github.com/Animenzzzz/LeetCode/issues/90)|31.30%|Easy|
 |67|[Add Binary](https://github.com/Animenzzzz/LeetCode/issues/1)|39.70%|Easy|
 |165|[Compare Version Numbers](https://github.com/Animenzzzz/LeetCode/issues/1)|23.90%|Medium|
 |227|[Basic Calculator II](https://github.com/Animenzzzz/LeetCode/issues/1)|33.80%|Medium|
+|344|[反转字符串](https://github.com/Animenzzzz/LeetCode/issues/91)|67.60%|Easy|
+|383|[赎金信](https://github.com/Animenzzzz/LeetCode/issues/92)|49.80%|Easy|
 |791|[Custom Sort String](https://github.com/Animenzzzz/LeetCode/issues/1)|62.40%|Medium|
 |859|[Buddy Strings](https://github.com/Animenzzzz/LeetCode/issues/1)|27.70%|Easy|
 
@@ -148,6 +151,7 @@ No matter.Try again.</B></font>
 |122|[买卖股票的最佳时机 II](https://github.com/Animenzzzz/LeetCode/issues/82)|55.30%|Easy|
 |134|[加油站\*](https://github.com/Animenzzzz/LeetCode/issues/85)|48.80%|Medium|
 |392|[判断子序列](https://github.com/Animenzzzz/LeetCode/issues/83)|48.30%|Easy|
+|435|[无重叠区间](https://github.com/Animenzzzz/LeetCode/issues/89)|43.40%|Medium|
 |455|[分发饼干](https://github.com/Animenzzzz/LeetCode/issues/87)|51.60%|Easy|
 |763|[划分字母区间](https://github.com/Animenzzzz/LeetCode/issues/88)|66.80%|Medium|
 |860|[柠檬水找零](https://github.com/Animenzzzz/LeetCode/issues/86)|51.70%|Easy|
