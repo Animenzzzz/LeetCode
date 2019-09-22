@@ -62,7 +62,9 @@ No matter.Try again.</B></font>
 |206*|[反转链表](https://github.com/Animenzzzz/LeetCode/issues/35)|63.40%|Easy|递归|
 |234|[回文链表](https://github.com/Animenzzzz/LeetCode/issues/36)|38.20%|Easy|
 |237|[删除链表中的节点](https://github.com/Animenzzzz/LeetCode/issues/95)|77.30%|Easy|
+|328|[奇偶链表](https://github.com/Animenzzzz/LeetCode/issues/96)|58.90%|Medium|
 |445|[Add Two Numbers II](https://github.com/Animenzzzz/LeetCode/issues/1)|50.50%|Medium|
+|725|[分隔链表](https://github.com/Animenzzzz/LeetCode/issues/97)|50.60%|Medium|
 |876|[链表的中间结点](https://github.com/Animenzzzz/LeetCode/issues/93)|62.30%|Easy|
 
 ## Sort
