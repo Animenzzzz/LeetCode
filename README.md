@@ -56,11 +56,14 @@ No matter.Try again.</B></font>
 |92|[反转链表 II](https://github.com/Animenzzzz/LeetCode/issues/34)|45.90%|Medium|
 |141|[Linked List Cycle](https://github.com/Animenzzzz/LeetCode/issues/9)|37.40%|Easy|
 |142|[Linked List Cycle II](https://github.com/Animenzzzz/LeetCode/issues/1)|32.60%|Medium|
+|143|[重排链表](https://github.com/Animenzzzz/LeetCode/issues/94)|51.80%|Medium|
 |160|[相交链表](https://github.com/Animenzzzz/LeetCode/issues/31)|46.50%|Easy|
 |203|[移除链表元素](https://github.com/Animenzzzz/LeetCode/issues/32)|42.00%|Easy|
 |206*|[反转链表](https://github.com/Animenzzzz/LeetCode/issues/35)|63.40%|Easy|递归|
 |234|[回文链表](https://github.com/Animenzzzz/LeetCode/issues/36)|38.20%|Easy|
+|237|[删除链表中的节点](https://github.com/Animenzzzz/LeetCode/issues/95)|77.30%|Easy|
 |445|[Add Two Numbers II](https://github.com/Animenzzzz/LeetCode/issues/1)|50.50%|Medium|
+|876|[链表的中间结点](https://github.com/Animenzzzz/LeetCode/issues/93)|62.30%|Easy|
 
 ## Sort
 | # | Title | Solution | Difficulty | Key |
