@@ -162,3 +162,11 @@ No matter.Try again.</B></font>
 |455|[分发饼干](https://github.com/Animenzzzz/LeetCode/issues/87)|51.60%|Easy|
 |763|[划分字母区间](https://github.com/Animenzzzz/LeetCode/issues/88)|66.80%|Medium|
 |860|[柠檬水找零](https://github.com/Animenzzzz/LeetCode/issues/86)|51.70%|Easy|
+
+## Binary Search
+| # | Title | Solution | Difficulty | Key |
+|---| ----- | -------- | ---------- | --- |
+|29|[两数相除](https://github.com/Animenzzzz/LeetCode/issues/100)|18.60%|Medium|位运算|
+|34|[在排序数组中查找元素的第一个和最后一个位置](https://github.com/Animenzzzz/LeetCode/issues/101)|37.60%|Medium|
+|50\*|[Pow(x, n)](https://github.com/Animenzzzz/LeetCode/issues/102)|33.20%|Medium|递归|
+|153|[寻找旋转排序数组中的最小值](https://github.com/Animenzzzz/LeetCode/issues/103)|49.60%|Medium|
